@@ -1,5 +1,4 @@
-# myRepo
-# 💫 About Me:
+ 💫 About Me:
 # Hi there, I'm Gagan Sahu 👋<br><br>🎓 B.Tech Computer Science Engineering Student<br><br>💻 Frontend Developer | Problem Solver | Open Source Learner<br><br>## Tech Stack<br>- C++<br>- Python<br>- HTML<br>- CSS<br>- JavaScript<br>- Git & GitHub<br><br>## Currently Learning<br>- Data Structures & Algorithms<br>- React.js<br>- Machine Learning<br>- Agentic AI<br><br>## Connect with Me<br>- LinkedIn: https://linkedin.com/in/gagan-sahu-7b97b0327<br>- LeetCode: https://leetcode.com/u/Gagansahu/<br>- GitHub: https://github.com/Gagansahu821<br>- Coding Ninjas: https://www.naukri.com/code360/profile/235facb8-e555-4386-a403-b5515a2666d9
 
 
