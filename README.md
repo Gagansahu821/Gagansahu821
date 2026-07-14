@@ -1,26 +1,26 @@
-# Hi there, I'm `Gagan Sahu` 👋
+# 💫 About Me:
+
+$$\mathcal{Hi\ there,\ I'm\ Gagan\ Sahu\ 👋}$$
+
+$$\mathbf{🎓\ B.Tech\ Computer\ Science\ Engineering\ Student}$$
+
+$$\texttt{💻\ Frontend\ Developer\ |\ Problem\ Solver\ |\ Open\ Source\ Learner}$$
 <br>
 
-🎓 `B.Tech Computer Science Engineering Student`
-<br><br>
-
-💻 `Frontend Developer` | `Problem Solver` | `Open Source Learner`
-<br><br>
-
 ## 📚 Tech Stack
-* `C++`
-* `Python`
-* `HTML`
-* `CSS`
-* `JavaScript`
-* `Git & GitHub`
+* $$\mathcal{C++}$$
+* $$\mathcal{Python}$$
+* $$\mathcal{HTML}$$
+* $$\mathcal{CSS}$$
+* $$\mathcal{JavaScript}$$
+* $$\mathcal{Git\ \&\ GitHub}$$
 <br>
 
 ## 🚀 Currently Learning
-* `Data Structures & Algorithms`
-* `React.js`
-* `Machine Learning`
-* `Agentic AI`
+* $$\mathcal{Data\ Structures\ \&\ Algorithms}$$
+* $$\mathcal{React.js}$$
+* $$\mathcal{Machine\ Learning}$$
+* $$\mathcal{Agentic\ AI}$$
 <br>
 
 ## 🤝 Connect with Me
