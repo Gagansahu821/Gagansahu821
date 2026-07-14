@@ -30,8 +30,6 @@ $$\texttt{💻\ Frontend\ Developer\ |\ Problem\ Solver\ |\ Open\ Source\ Learne
 <br>
 
 ## 🌐 Socials
-<p align="left">
-  <a href="https://bsky.app/profile/@gaganSahu"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky" /></a>
   <a href="https://instagram.com/GaganSahu821"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://linkedin.com/in/gagan-sahu-7b97b0327"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/Gagansahu"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
