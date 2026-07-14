@@ -4,9 +4,8 @@ $$\mathcal{Hi\ there,\ I'm\ Gagan\ Sahu\ 👋}$$
 
 $$\mathbf{🎓\ B.Tech\ Computer\ Science\ Engineering\ Student}$$
 
-💻 `Frontend Developer` | `Problem Solver` | `Open Source Learner`
-<br><br>
-
+$$\texttt{💻\ Frontend\ Developer\ |\ Problem\ Solver\ |\ Open\ Source\ Learner}$$
+<br>
 ## 📚 Tech Stack
 * `C++`
 * `Python`
