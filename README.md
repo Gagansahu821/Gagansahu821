@@ -4,23 +4,23 @@ $$\mathcal{Hi\ there,\ I'm\ Gagan\ Sahu\ 👋}$$
 
 $$\mathbf{🎓\ B.Tech\ Computer\ Science\ Engineering\ Student}$$
 
-$$\texttt{💻\ Frontend\ Developer\ |\ Problem\ Solver\ |\ Open\ Source\ Learner}$$
-<br>
+💻 `Frontend Developer` | `Problem Solver` | `Open Source Learner`
+<br><br>
 
 ## 📚 Tech Stack
-* $$\mathcal{C++}$$
-* $$\mathcal{Python}$$
-* $$\mathcal{HTML}$$
-* $$\mathcal{CSS}$$
-* $$\mathcal{JavaScript}$$
-* $$\mathcal{Git\ \&\ GitHub}$$
+* `C++`
+* `Python`
+* `HTML`
+* `CSS`
+* `JavaScript`
+* `Git & GitHub`
 <br>
 
 ## 🚀 Currently Learning
-* $$\mathcal{Data\ Structures\ \&\ Algorithms}$$
-* $$\mathcal{React.js}$$
-* $$\mathcal{Machine\ Learning}$$
-* $$\mathcal{Agentic\ AI}$$
+* `Data Structures & Algorithms`
+* `React.js`
+* `Machine Learning`
+* `Agentic AI`
 <br>
 
 ## 🤝 Connect with Me
